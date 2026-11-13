@@ -40,10 +40,10 @@
         <mxCell id="ReuvWqCapJpJRv9-CQHC-6" parent="ReuvWqCapJpJRv9-CQHC-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="joueur = 1bit" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="ReuvWqCapJpJRv9-CQHC-3" parent="ReuvWqCapJpJRv9-CQHC-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="vistoiresJ1 = 4bit" vertex="1">
+        <mxCell id="ReuvWqCapJpJRv9-CQHC-3" parent="ReuvWqCapJpJRv9-CQHC-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="vistoiresJ1 = 3bit" vertex="1">
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="ReuvWqCapJpJRv9-CQHC-4" parent="ReuvWqCapJpJRv9-CQHC-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="victoiresJ2 = 4bit" vertex="1">
+        <mxCell id="ReuvWqCapJpJRv9-CQHC-4" parent="ReuvWqCapJpJRv9-CQHC-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="victoiresJ2 = 3bit" vertex="1">
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
         <mxCell id="ReuvWqCapJpJRv9-CQHC-5" parent="ReuvWqCapJpJRv9-CQHC-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="null = 6bit" vertex="1">
